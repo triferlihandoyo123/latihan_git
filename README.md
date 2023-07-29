@@ -1,2 +1,2 @@
 # latihan_git
-Training 
+Training github pemrograman mobile 2 .
